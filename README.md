@@ -24,4 +24,6 @@ Beyond code, I'm a former president of my university's Basketball Association an
 
 ## Let's connect
 
-[Personal website](https://jimmyhoulala.github.io) · [LinkedIn](https://www.linkedin.com/in/jimmy-hou-625658303) · [Email](mailto:hqsh200459@outlook.com)
+[Personal website](https://jimmyhoulala.github.io) · 
+<!-- [LinkedIn](https://www.linkedin.com/in/jimmy-hou-625658303) ·  -->
+[Email](mailto:qhou38@gatch.edu)
